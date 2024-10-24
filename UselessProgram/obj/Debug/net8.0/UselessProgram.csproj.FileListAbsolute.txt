@@ -1,0 +1,15 @@
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/bin/Debug/net8.0/UselessProgram
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/bin/Debug/net8.0/UselessProgram.deps.json
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/bin/Debug/net8.0/UselessProgram.runtimeconfig.json
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/bin/Debug/net8.0/UselessProgram.dll
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/bin/Debug/net8.0/UselessProgram.pdb
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.AssemblyInfoInputs.cache
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.AssemblyInfo.cs
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.csproj.CoreCompileInputs.cache
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.sourcelink.json
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.dll
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/refint/UselessProgram.dll
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.pdb
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/UselessProgram.genruntimeconfig.cache
+/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/obj/Debug/net8.0/ref/UselessProgram.dll
