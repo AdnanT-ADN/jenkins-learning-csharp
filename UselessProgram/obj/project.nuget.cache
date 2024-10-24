@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/LiyokvfO8=",
+  "dgSpecHash": "CNCtK4fqZKA=",
   "success": true,
-  "projectFilePath": "/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins/UselessProgram/UselessProgram.csproj",
+  "projectFilePath": "/home/adn/Documents/Programming/Learning/Docker/c_sharp_jenkins_p2/jenkins-learning-csharp/UselessProgram/UselessProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

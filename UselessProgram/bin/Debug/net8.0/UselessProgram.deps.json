@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "UselessProgram/1.0.0": {
+        "dependencies": {
+          "MathsOperations": "1.0.0"
+        },
         "runtime": {
           "UselessProgram.dll": {}
+        }
+      },
+      "MathsOperations/1.0.0": {
+        "runtime": {
+          "MathsOperations.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "UselessProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsOperations/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
